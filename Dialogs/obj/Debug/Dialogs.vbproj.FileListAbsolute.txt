@@ -1,0 +1,10 @@
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Dialogs\Dialogs\bin\Debug\Dialogs.exe.config
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Dialogs\Dialogs\bin\Debug\Dialogs.exe
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Dialogs\Dialogs\bin\Debug\Dialogs.pdb
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Dialogs\Dialogs\bin\Debug\Dialogs.xml
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Dialogs\Dialogs\obj\Debug\Dialogs.Dialogs.resources
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Dialogs\Dialogs\obj\Debug\Dialogs.Resources.resources
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Dialogs\Dialogs\obj\Debug\Dialogs.vbproj.GenerateResource.Cache
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Dialogs\Dialogs\obj\Debug\Dialogs.exe
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Dialogs\Dialogs\obj\Debug\Dialogs.xml
+C:\SF.Code\PluralSight\vb-windows-forms-intro\Dialogs\Dialogs\obj\Debug\Dialogs.pdb
